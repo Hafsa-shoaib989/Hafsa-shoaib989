@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Hafsa Shoaib
+#### Learning Chisel
+![Learning Chisel](https://www.thesoftwarereport.com/wp-content/uploads/2022/08/GitHub.png)
 
-<!--
-**Hafsa-shoaib989/Hafsa-shoaib989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hafsa from Pakistan, and I do work on python, I really enjoy learning new languages.
+- 🌱 I’m currently learning Chisel 
 
-Here are some ideas to get you started:
+Skills: VS Code/Spyder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hafsa Shoaib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Hafsa Shoaib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Hafsa Shoaib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Hafsa Shoaib)  
+
+
