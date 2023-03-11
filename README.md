@@ -22,6 +22,5 @@ Skills: VS Code/Spyder
 
 ## <img src='.github/workflows/tech.gif' height=60/> Socials:
 <div>
-<a href="https://www.linkedin.com/in/hafsa-shoaib-39ba42250/" >
-<src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hafsa-shoaib-39ba42250/" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="hafsashoaib989@gmail.com"><img align="left" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a></div>
