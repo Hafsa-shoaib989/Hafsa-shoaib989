@@ -26,7 +26,7 @@
 - **hafsashoaib989@gmail.com**
 
 ## 📄 Know about my experiences:
-- [My Resume](https://your-resume-link.com)
+- [My Resume](https://docs.google.com/document/d/1bM2QEL2XROIL09WJ9py2e9iMHUIy1XgOVqxvPYk5oak/edit)
 
 ## ⚡ Fun fact:
 - **I love exploring new technologies and enhancing my coding skills**
