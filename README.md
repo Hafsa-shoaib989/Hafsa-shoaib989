@@ -14,19 +14,13 @@
 ---
 
 ## 🔭 I’m currently working on:
-- **RISC-V Vector Extension Project**
-
-## 🌱 I’m currently learning:
-- **Advanced Machine Learning Techniques**
+- **Post Quantum Cryptographic Algorithm "Dilithium"**
 
 ## 👨‍💻 All of my projects are available at:
 - [My GitHub Repositories](https://github.com/Hafsa-shoaib989)
 
-## 📝 I regularly write articles on:
-- [LinkedIn](https://www.linkedin.com/in/hafsa-shoaib-39ba42250/)
-
 ## 💬 Ask me about:
-- **Python, Scala, CHISEL, Django**
+- **Python, Scala, CHISEL, Django ane more**
 
 ## 📫 How to reach me:
 - **hafsashoaib989@gmail.com**
@@ -58,5 +52,3 @@
   <a href="https://www.ubuntu.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 </p>
-
-![Footer](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/footer.png)
