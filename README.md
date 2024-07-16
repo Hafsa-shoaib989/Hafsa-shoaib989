@@ -1,36 +1,52 @@
-![Header](https://raw.githubusercontent.com/kha7iq/kha7iq/main/resources/header.gif)
+![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Hafsa Shoaib</h1>
-<h3 align="center">A passionate Software Engineer with a knack for innovation and a love for coding</h3>
+<h3 align="center">A Passionate Software Engineer with a Knack for Innovation and a Love for Coding</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsa-shoaib989&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa-shoaib989" /> </p>
+<p align="center">
+  <a href="https://github.com/Hafsa-shoaib989"><img src="https://img.shields.io/github/followers/Hafsa-shoaib989?label=Follow&style=social"></a>
+  <a href="https://linkedin.com/in/hafsa-shoaib-39ba42250"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"></a>
+  <a href="mailto:hafsashoaib989@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=social&logo=gmail"></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafsa-shoaib989" alt="hafsa-shoaib989" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hafsa-shoaib989&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa-shoaib989" /> </p>
 
-- 🔭 I’m currently working on **RISC-V Vector Extension Project**
+---
 
-- 🌱 I’m currently learning **Advanced Machine Learning Techniques**
+## 🔭 I’m currently working on:
+- **RISC-V Vector Extension Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hafsa-shoaib989](https://github.com/Hafsa-shoaib989)
+## 🌱 I’m currently learning:
+- **Advanced Machine Learning Techniques**
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/hafsa-shoaib-39ba42250/)
+## 👨‍💻 All of my projects are available at:
+- [My GitHub Repositories](https://github.com/Hafsa-shoaib989)
 
-- 💬 Ask me about **Python, Scala, CHISEL, Django**
+## 📝 I regularly write articles on:
+- [LinkedIn](https://www.linkedin.com/in/hafsa-shoaib-39ba42250/)
 
-- 📫 How to reach me **hafsashoaib989@gmail.com**
+## 💬 Ask me about:
+- **Python, Scala, CHISEL, Django**
 
-- 📄 Know about my experiences [Resume](https://raw.githubusercontent.com/kha7iq/kha7iq/main/resources/resume.pdf)
+## 📫 How to reach me:
+- **hafsashoaib989@gmail.com**
 
-- ⚡ Fun fact **I love exploring new technologies and enhancing my coding skills**
+## 📄 Know about my experiences:
+- [My Resume](https://your-resume-link.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## ⚡ Fun fact:
+- **I love exploring new technologies and enhancing my coding skills**
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/hafsa-shoaib-39ba42250" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hafsa-shoaib-39ba42250" height="30" width="40" /></a>
 <a href="https://github.com/Hafsa-shoaib989" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hafsa-shoaib989" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
   <a href="https://chisel.eecs.berkeley.edu" target="_blank"> <img src="https://chisel.eecs.berkeley.edu/images/logos/chisel-logo.png" alt="chisel" width="40" height="40"/> </a> 
@@ -43,4 +59,4 @@
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 </p>
 
-![Footer](https://raw.githubusercontent.com/kha7iq/kha7iq/main/resources/footer.png)
+![Footer](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/footer.png)
