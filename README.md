@@ -17,7 +17,7 @@
 - **Post Quantum Cryptographic Algorithm "Dilithium"**
 
 ## 👨‍💻 All of my projects are available at:
-- [My GitHub Repositories](https://github.com/Hafsa-shoaib989)
+- [My GitHub Repositories](https://github.com/Hafsa-shoaib989?tab=repositories)
 
 ## 💬 Ask me about:
 - **Python, Scala, CHISEL, Django ane more**
@@ -42,8 +42,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
-  <a href="https://chisel.eecs.berkeley.edu" target="_blank"> <img src="https://chisel.eecs.berkeley.edu/images/logos/chisel-logo.png" alt="chisel" width="40" height="40"/> </a> 
+  <a href="https://www.scala-lang.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="scala" width="40" height="40"/> </a> 
+  <a href="https://chisel.eecs.berkeley.edu" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Chisel-logo.svg" alt="chisel" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://www.qt.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> </a> 
