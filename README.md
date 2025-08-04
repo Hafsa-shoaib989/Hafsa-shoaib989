@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Hafsa-shoaib989"><img src="https://img.shields.io/github/followers/Hafsa-shoaib989?label=Follow&style=social"></a>
-  <a href="https://linkedin.com/in/hafsa-shoaib-39ba42250"></a>
+  <a href="https://linkedin.com/in/hafsa-shoaib-39ba42250"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"></a>
   <a href="mailto:hafsashoaib989@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=social&logo=gmail"></a>
 </p>
 
@@ -13,27 +13,7 @@
 
 ---
 
-## 🔭 I’m currently working on:
-- **Post Quantum Cryptographic Algorithm "Dilithium"**
-
-## 👨‍💻 All of my projects are available at:
-- [My GitHub Repositories](https://github.com/Hafsa-shoaib989?tab=repositories)
-
-## 💬 Ask me about:
-- **Python, Scala, CHISEL, Django ane more**
-
-## 📫 How to reach me:
-- **hafsashoaib989@gmail.com**
-
-## 📄 Know about my experiences:
-- [My Resume](https://docs.google.com/document/d/1bM2QEL2XROIL09WJ9py2e9iMHUIy1XgOVqxvPYk5oak/edit)
-
-## ⚡ Fun fact:
-- **I love exploring new technologies and enhancing my coding skills**
-
----
-
-<h3 align="center">Connect with me:</h3>
+<h3>Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/hafsa-shoaib-39ba42250" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hafsa-shoaib-39ba42250" height="30" width="40" /></a>
 <a href="https://github.com/Hafsa-shoaib989" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hafsa-shoaib989" height="30" width="40" /></a>
