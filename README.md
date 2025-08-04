@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Hafsa-shoaib989"><img src="https://img.shields.io/github/followers/Hafsa-shoaib989?label=Follow&style=social"></a>
-  <a href="https://linkedin.com/in/hafsa-shoaib-39ba42250"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/hafsa-shoaib-39ba42250"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"></a>
   <a href="mailto:hafsashoaib989@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=social&logo=gmail"></a>
 </p>
 
@@ -15,7 +15,7 @@
 
 <h3>Connect with me:</h3>
 <p>
-<a href="[https://linkedin.com/in/hafsa-shoaib-39ba42250](https://www.linkedin.com/in/hafsa-shoaib-39ba42250/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hafsa-shoaib-39ba42250" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hafsa-shoaib-39ba42250" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hafsa-shoaib-39ba42250" height="30" width="40" /></a>
 <a href="https://github.com/Hafsa-shoaib989" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hafsa-shoaib989" height="30" width="40" /></a>
 </p>
 
