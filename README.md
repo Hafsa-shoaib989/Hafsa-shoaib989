@@ -41,8 +41,6 @@
 <p> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.scala-lang.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="scala" width="40" height="40"/> </a> 
-  <a href="https://chisel.eecs.berkeley.edu" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Chisel-logo.svg" alt="chisel" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://www.qt.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
