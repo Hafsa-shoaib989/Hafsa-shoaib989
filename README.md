@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Hafsa-shoaib989"><img src="https://img.shields.io/github/followers/Hafsa-shoaib989?label=Follow&style=social"></a>
-  <a href="https://linkedin.com/in/hafsa-shoaib-39ba42250"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/hafsa-shoaib-39ba42250"></a>
   <a href="mailto:hafsashoaib989@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=social&logo=gmail"></a>
 </p>
 
